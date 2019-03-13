@@ -1,0 +1,11 @@
+{
+  "name": "jstest",
+  "short_name": "jstest",
+  "display": "standalone",
+  "offline_enabled": true,
+  "icons": [{
+    "src": "Icon-152.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  }]
+}
